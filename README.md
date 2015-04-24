@@ -3,8 +3,9 @@
 # Liberland Resources
 
 ## Official
-* [liberland.org](http://liberland.org/)
-* [facebook.com/liberland](https://www.facebook.com/liberland)
+* [Website](http://liberland.org/)
+* [Facebook profile](https://www.facebook.com/liberland)
+* [GitHub account](https://github.com/liberland)
 
 ## Community
 

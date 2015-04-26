@@ -23,6 +23,12 @@ Croatia
   - Capabilities: general cargo, bulk cargo
   - Connections: rail, road
   - More info: http://www.danubeports.info/index.php?id=1277
+- Vukovar
+  - LOCODE: HRVUK
+  - Km indicator: 1335
+  - Capabilities: general cargo, bulk cargo, liquid cargo, containers
+  - Connections: rail, road
+  - More info: http://www.danubeports.info/index.php?id=1276
 
 Hungary
 ------------

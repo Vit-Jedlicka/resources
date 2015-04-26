@@ -8,7 +8,13 @@ Serbia
   - Capabilities: general cargo, bulk cargo
   - Connections: rail, road
   - More info: http://www.danubeports.info/index.php?id=1274
-
+- Bačka Palanka 
+  - LOCODE: RSBPA
+  - Km indicator: 1295
+  - Capabilities: general cargo, bulk cargo
+  - Connections: road
+  - More info: http://www.danubeports.info/index.php?id=1272
+  
 Croatia
 ------------
 - Osijek

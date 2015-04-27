@@ -1,8 +1,8 @@
-A listing of vessels sailing under the Liberland flag. Resources for obtaining watercraft in the areas surrounding Liberland.
+A listing of vessels sailing under the Liberland flag, aesources for obtaining watercraft in the areas surrounding Liberland.
 
 Vessels flying the civil ensign
 ==========
-- *TBA*
+- *to be added*
 
 Local watercraft dealers
 ==========
@@ -13,6 +13,7 @@ Serbia
 - [Polovni Automobili](http://www.polovniautomobili.com/plovila)
 - [Polovna Plovila](http://polovnaplovila.rs/berza/)
 - [HaloOglasi](http://www.halooglasi.com/vozila-i-delovi/)
+- [Istar aluminijumski čamci](http://aluminijumskicamci.rs/galerija/)
 
 
 Croatia
@@ -21,3 +22,4 @@ Croatia
 
 Hungary
 --------------
+- [Jófogás.hu](http://www.jofogas.hu/magyarorszag?q=Cs%F3nak)

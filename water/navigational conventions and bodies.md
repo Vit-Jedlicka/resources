@@ -3,6 +3,7 @@ A resource for navigational rules, agencies, and international conventions regar
 Law and conventions
 -------------
 - [Convention regarding the regime of navigation on the Danube](http://www.danubecommission.org/index.php/en_US/convention#3) (1948)
+- [Navigation Rules, International—Inland](http://www.navcen.uscg.gov/pdf/navRules/navrules.pdf) (1972 COLREGS)
 
 Organisations and agencies
 -------------

@@ -4,9 +4,7 @@
 
 Place for Liberland-related documents, links and other resources.
 
-## Categories
-
-### Water
+## Water
 
 * [Navigational charts](water/navigational charts.md) - navigational charts of the Danube.
 * [Navigational conventions and bodies](water/navigational conventions and bodies.md) - navigational rules, agencies, and international conventions regarding the Danube.
@@ -17,10 +15,10 @@ Place for Liberland-related documents, links and other resources.
 ## External links
 
 ### Official
-* [Website](http://liberland.org/)
-* [Facebook profile](https://www.facebook.com/liberland)
-* [Twitter profile](https://twitter.com/liberland_org)
-* [GitHub account](https://github.com/liberland)
+* [Website](http://liberland.org/) - **liberland.org**
+* [Facebook profile](https://www.facebook.com/liberland) - fb.co/**liberland**
+* [Twitter profile](https://twitter.com/liberland_org) - twitter.com/**Liberland_org**
+* [GitHub account](https://github.com/liberland) - github.com/**liberland**
 
 ### Community
 

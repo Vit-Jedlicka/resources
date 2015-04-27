@@ -1,8 +1,8 @@
-A listing of vessels sailing under the Liberland flag, aesources for obtaining watercraft in the areas surrounding Liberland.
+A listing of vessels sailing under the Liberland flag, resources for obtaining watercraft in the areas surrounding Liberland.
 
 Vessels flying the civil ensign
 ==========
-- *to be added*
+- *TBD*
 
 Local watercraft dealers
 ==========

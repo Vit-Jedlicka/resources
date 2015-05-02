@@ -12,6 +12,12 @@ Place for Liberland-related documents, links and other resources.
 * [Watercraft](water/watercraft.md) - vessels sailing under the Liberland flag, resources for obtaining watercraft in the areas surrounding Liberland.
 
 
+## Air
+
+* [Aeronautical charts](air/aeronautical charts.md) - local charts for air navigation.
+* [Airports and airstrips](air/airports and airstrips.md) - nearby international airports, listings of civil airstrips.
+
+
 ## External links
 
 ### Official

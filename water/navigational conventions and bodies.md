@@ -9,7 +9,6 @@ A resource for navigational rules, agencies, and international conventions regar
 - [International Certificate of Competance](https://en.wikipedia.org/wiki/International_Certificate_of_Competence)
 
 ## Organisations and agencies
--------------
 - [Danube Commission](http://www.danubecommission.org/)
 - [International Commission for the Protection of the Danube River](http://www.icpdr.org/main/)
 - [Inland Navigation Europe](http://www.inlandnavigation.eu/home/)

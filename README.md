@@ -28,5 +28,7 @@ Place for Liberland-related documents, links and other resources.
 
 ### Community
 
+* [Liberland Voluntary Registry](http://llregistry.com/)
+
 ### Other
 * [English Wikipedia article](http://en.wikipedia.org/wiki/Liberland)
